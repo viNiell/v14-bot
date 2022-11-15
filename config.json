@@ -1,0 +1,7 @@
+{
+    "developerGuild": "1015002035113967617",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://c4clan3:c4clan3@c4clan3.ufkpd.mongodb.net/?retryWrites=true&w=majority"
+}
